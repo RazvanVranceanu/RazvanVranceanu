@@ -7,10 +7,6 @@
   
 
 - 🧑‍💻 I’m currently working at 8x8  
-  
-
-- 👨‍🎓 I’m currently studying at Babes-Bolyai University, in the final year  
-  
 
 - 💭 I'm working with Spring Boot and Reactive Programming (Spring Webflux)  
   
