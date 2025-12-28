@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Razvan, a Java software developer</div>  
+### <div align="center">I'm Razvan, a Java Software Developer</div>  
   
 
 - 🧑‍💻 I’m currently working at 8x8  
